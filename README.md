@@ -1,7 +1,6 @@
-# Meldownd.github.io
-Angel Eladio Vazquez Galindo
+#Angel Eladio Vazquez Galindo
 
-Analista de datos Junior
+##Analista de datos Junior
 
 Python | SQL | Power BI |  Excel
 
@@ -9,7 +8,7 @@ Chiapas,Mexico|+52 967 134 54 17| [eladio.v.galindo@gmail.com](mailto:eladio.v.g
 
 Analista de datos jr con fuerte conocimiento en bases de datos de distintos software’s , con especial enfoque en detalles pequeños y priorizando la funcionalidad antes que el diseño
 
-Habilidades Técnicas: 
+##Habilidades Técnicas: 
 
 - python(pandas,numpy,matplotlib)
 - SQL (postgresql)
@@ -24,7 +23,7 @@ Habilidades:
 - Ingles Intermedio(B1)
 - Análisis estadístico
 
-Educación:
+##Educación:
 
 Preparatoria: 
 
@@ -34,7 +33,7 @@ Cursos:
 
 Bootcamp Tripleteen: Data Analyst
 
-Trabajos:
+## Trabajos:
 
 Restaurante la diligencia: de 2024-2025
 
